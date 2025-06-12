@@ -19,4 +19,6 @@ Q-value: Represents the expected utility of taking a specific action in a given 
 Q-table: A lookup table storing Q-values for all state-action pairs, the main brains behind your agent at the end of training.
 
 This will show, at each tile in our grid, what the best action is to take. A higher Q-Value for an action in a given state action pair represents the optimal learned action.
+
+
 ![image](https://github.com/user-attachments/assets/47e22dc2-55cd-4da9-8153-c6313f726d13)
