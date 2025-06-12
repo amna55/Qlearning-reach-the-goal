@@ -13,7 +13,7 @@ State-action pairs: Instead of learning values for states alone, Q-learning cons
 
 Iterative improvement: Q-values are continuously updated based on new experiences, gradually improving the policy.
 
-In rech the goal our agent has to reach the goal of this 3x3 Grid. The end goal will be to create a Q-Table that stores all of the Q-Values learned through the RL training.
+In reach the goal our agent has to reach the goal of this 3x3 Grid. The end goal will be to create a Q-Table that stores all of the Q-Values learned through the RL training.
 
 Q-value: Represents the expected utility of taking a specific action in a given state, this is the value kept that determines how 'useful' an action is given the current state.
 Q-table: A lookup table storing Q-values for all state-action pairs, the main brains behind your agent at the end of training.
